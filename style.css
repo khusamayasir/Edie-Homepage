@@ -341,18 +341,20 @@ nav {
 footer {
   background-color: #100e1d;
   color: white;
-  padding-top: 3rem;
+  padding-top: 2rem;
 }
-
 
 .footer {
   font-weight: 500;
   font-size: 14px;
   line-height: 17px;
-  padding: 8rem 0 1rem 0;
+  padding: 4rem 0 1rem 0;
   text-align: center;
-
   color: #f2f2f2;
+}
+
+a .username-link:hover, a .devchallenges-link:hover {
+  color: #f7542e;
 }
 
 footer .navlink {
