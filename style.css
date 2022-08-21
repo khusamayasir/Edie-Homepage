@@ -484,7 +484,7 @@ footer .nav_link {
     width: 55%;
   }
 
-  .work.container {
+  .work_container {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
