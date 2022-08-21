@@ -37,6 +37,10 @@ a {
   color: inherit;
 }
 
+a:hover {
+  background-color: rgba(245, 245, 245, 0.670);
+}
+
 .logo {
   font-family: "Heebo", sans-serif;
   font-weight: 800;
@@ -368,15 +372,12 @@ footer form,
   padding-right: 5%;
 }
 
-.icons svg {
-  width: 2.4rem;
-  height: 2.4rem;
-  margin-right: 1rem;
-}
-
-.icons {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+.icons img {
+  width: 2rem;
+  height: 2rem;
+  margin-right:1rem;
+  padding-top: -6rem;
+  padding-bottom: -6rem;
 }
 
 .icons div {
