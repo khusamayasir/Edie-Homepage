@@ -9,11 +9,11 @@ In-Progress
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://devio-edie-homepage.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/khusamayasir/Edie-Homepage">
       Solution
     </a>
     <span> | </span>
@@ -88,6 +88,7 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [Preview](https://devio-edie-homepage.netlify.app/)
+- GitHub [Github](https://github.com/khusamayasir)
+- Twitter [Twitter](https://twitter.com/khusamayasir)
+
