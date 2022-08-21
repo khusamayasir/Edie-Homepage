@@ -440,7 +440,7 @@ footer .nav_link {
     padding: 1rem;
   }
 
-  .services {
+  .services_container {
     display: flex;
     justify-content: space-between;
     gap: 1rem;
