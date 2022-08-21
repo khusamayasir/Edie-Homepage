@@ -1,4 +1,3 @@
-In-Progress
 <!-- Please update value in the {}  -->
 
 <h1 align="center">{Your project name}</h1>
@@ -38,14 +37,10 @@ In-Progress
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+Desktop View:
+![screenshot](https://github.com/khusamayasir/Edie-Homepage/blob/main/preview/desktop-view.png?raw=true)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+You can see the demo of the page at the start. It help me to polish my skills in css and html too, I love to do more challenges and make my skill more perfect and more proficient. I think practising or playing with this type of project will make you expert one day.
 
 ### Built With
 
